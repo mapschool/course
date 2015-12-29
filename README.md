@@ -36,7 +36,8 @@
 ## Day 2: Geographic Information Systems
 ![screenshot 2015-12-29 12 36 38](https://cloud.githubusercontent.com/assets/126868/12030704/d101775c-ae28-11e5-9c59-5171b808091d.png)
 - Projection systems
- - 
+ - [Mercator]()
+ - [Web mercator]()
 - Map data
  - Data primitives
  - Formats
@@ -91,6 +92,7 @@
  - [AJAX]()
  - [JSON](http://www.jsoneditoronline.org)
  - [API](https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&titles=Application%20programming%20interface)
+ - [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com)
 - A simple map
  - Creating a map view
  - Adding map layers
