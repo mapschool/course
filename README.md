@@ -99,7 +99,7 @@
  - Adding data layers
  - Customizing map controls
 - Using Github pages
-- **Assignment 2**
+- **Assignment 2:** Create an interactive tourist map of your favourite place
 
 
 ## Day 5: Data driven maps
