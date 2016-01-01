@@ -19,7 +19,8 @@
  - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey)
 - Mapping 
  - [Coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system) and [WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)
- - [Projection](https://en.wikipedia.org/wiki/Map_projection) and [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection)
+ - [Projection](https://en.wikipedia.org/wiki/Map_projection): [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection) and [Web Mercator](https://en.wikipedia.org/wiki/Web_Mercator)<br>
+ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Australia-Greenland_size_comparison.svg/383px-Australia-Greenland_size_comparison.svg.png)
  - [Scale](https://en.wikipedia.org/wiki/Scale_(map))
 - Types of maps
  - [Pictoral](https://en.wikipedia.org/wiki/Pictorial_maps)
@@ -31,7 +32,7 @@
 - Map symbology 
  - [Ordanace Survey symbol sheets](https://www.ordnancesurvey.co.uk/resources/maps-and-geographic-resources/map-symbols.html)
  - Data abstraction 
-- **Exploration 2** Create a map (A) of the Bengaluru Airport Bus Network. Focus: utility, data density, clarity
+- **Exploration 2** Create a map of the Bengaluru Airport Bus Network. Focus: utility, data density, clarity
 
 ## Day 2: Geographic Information Systems
 ![screenshot 2015-12-29 12 36 38](https://cloud.githubusercontent.com/assets/126868/12030704/d101775c-ae28-11e5-9c59-5171b808091d.png)
