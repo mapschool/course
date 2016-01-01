@@ -16,10 +16,13 @@
 - [Geography](https://en.wikipedia.org/wiki/Geography)
  - [Geoid](https://en.wikipedia.org/wiki/Geoid)
  - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
- - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey)
-- Mapping 
+ - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)
+- Mapping<br>
+ ![](http://static.tumblr.com/1tfc7p8/1mHmdrext/treasure-map.jpg)
+ - [Coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system): [latitude](https://en.wikipedia.org/wiki/Latitude) and [longitude](https://en.wikipedia.org/wiki/Longitude)
+ - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:50,000 small scale (world map), 1:500 large scale (street map)
+ - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing)
  - [Projection](https://en.wikipedia.org/wiki/Map_projection): cylindrical, conic, azimuthal
- - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): small scale (world map), large scale (street map)
 - Types of maps
  - [Pictoral](https://en.wikipedia.org/wiki/Pictorial_maps)
  - [Thematic](https://en.wikipedia.org/wiki/Thematic_map)
