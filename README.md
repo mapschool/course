@@ -18,10 +18,8 @@
  - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
  - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey)
 - Mapping 
- - [Coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system) and [WGS 84](https://en.wikipedia.org/wiki/World_Geodetic_System)
- - [Projection](https://en.wikipedia.org/wiki/Map_projection): [Mercator Projection](https://en.wikipedia.org/wiki/Mercator_projection) and [Web Mercator](https://en.wikipedia.org/wiki/Web_Mercator)<br>
- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Australia-Greenland_size_comparison.svg/383px-Australia-Greenland_size_comparison.svg.png)
- - [Scale](https://en.wikipedia.org/wiki/Scale_(map))
+ - [Projection](https://en.wikipedia.org/wiki/Map_projection): cylindrical, conic, azimuthal
+ - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): small scale (world map), large scale (street map)
 - Types of maps
  - [Pictoral](https://en.wikipedia.org/wiki/Pictorial_maps)
  - [Thematic](https://en.wikipedia.org/wiki/Thematic_map)
@@ -36,12 +34,14 @@
 
 ## Day 2: Geographic Information Systems
 ![screenshot 2015-12-29 12 36 38](https://cloud.githubusercontent.com/assets/126868/12030704/d101775c-ae28-11e5-9c59-5171b808091d.png)
-- Projection systems
- - [Mercator]()
- - [Web mercator]()
-- Map data
- - Data primitives
- - Formats
+- [GIS Fundamentals](https://en.wikipedia.org/wiki/Geographic_information_system)
+ - Data primitives: [points](), lines, areas
+ - [Coordinate system](https://en.wikipedia.org/wiki/Geographic_coordinate_system): [WGS 84 Mercator projection](https://en.wikipedia.org/wiki/World_Geodetic_System) and [Web Mercator projection](https://en.wikipedia.org/wiki/Web_Mercator)<br>
+ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Australia-Greenland_size_comparison.svg/383px-Australia-Greenland_size_comparison.svg.png)
+ - Data Formats: [GeoJSON](), [Shapefile]()
+
+
+ 
 - Cartographic elements
  - frame
  - metadata
