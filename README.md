@@ -16,12 +16,13 @@
 - [Geography](https://en.wikipedia.org/wiki/Geography)
  - [Geoid](https://en.wikipedia.org/wiki/Geoid)
  - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
- - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)
+ - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)<br>
+ <img width="636" alt="screenshot 2016-01-02 01 52 41" src="https://cloud.githubusercontent.com/assets/126868/12072056/9e8525a8-b0f3-11e5-8b73-d4b054579d35.png">
 - Mapping<br>
  ![](http://static.tumblr.com/1tfc7p8/1mHmdrext/treasure-map.jpg)
  - [Coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system): [latitude](https://en.wikipedia.org/wiki/Latitude) and [longitude](https://en.wikipedia.org/wiki/Longitude)
- - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:50,000 small scale (world map), 1:500 large scale (street map)
- - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing)
+ - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing), [GPS]()
+ - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:250,000 small scale (world map), 1:10,000 large scale (street map)
  - [Projection](https://en.wikipedia.org/wiki/Map_projection): cylindrical, conic, azimuthal
 - Types of maps
  - [Pictoral](https://en.wikipedia.org/wiki/Pictorial_maps)
