@@ -1,4 +1,5 @@
 # Digital Cartography 101
+![](http://i.imgur.com/Cn5bPnJ.jpg)
 > An introduction to the art and science of modern cartography
 
 **Duration:** 5 days
