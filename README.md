@@ -17,7 +17,7 @@
 - [Geography](https://en.wikipedia.org/wiki/Geography)
  - [Geoid](https://en.wikipedia.org/wiki/Geoid)
  - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
- - [Great Trigonometric Survey of India](https://en.wikipedia.org/wiki/Great_Trigonometrical_Survey) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)<br>
+ - [Great Trigonometric Survey of India](https://books.google.co.in/books?id=gd8gAQAAMAAJ&printsec=frontcover#v=onepage&q&f=false) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)<br>
  <img width="636" alt="screenshot 2016-01-02 01 52 41" src="https://cloud.githubusercontent.com/assets/126868/12072056/9e8525a8-b0f3-11e5-8b73-d4b054579d35.png">
 - Mapping<br>
  ![](http://static.tumblr.com/1tfc7p8/1mHmdrext/treasure-map.jpg)
