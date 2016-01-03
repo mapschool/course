@@ -72,6 +72,9 @@
  - A physical map
  - A chloropleth map
 - **Assignment 1**
+
+**Reading**
+- [A Rare Interview With Graphic Design Legend Massimo Vignelli](http://www.fastcodesign.com/3044133/a-rare-interview-with-graphic-design-legend-massimo-vignelli)
  
 ## Day 3: Working with Map Data
 ![screenshot 2015-12-29 12 50 26](https://cloud.githubusercontent.com/assets/126868/12030837/c1e261ee-ae2a-11e5-9a59-ce5156428bbf.png)
