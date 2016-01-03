@@ -37,6 +37,9 @@
  - Data abstraction 
 - **Exploration 2** Create a map of the Bengaluru Airport Bus Network. Focus: utility, data density, clarity
 
+**Reading**
+- [Inside the Secret World of Russia’s Cold War Mapmakers](http://www.wired.com/2015/07/secret-cold-war-maps/)
+
 ## Day 2: Geographic Information Systems
 ![screenshot 2015-12-29 12 36 38](https://cloud.githubusercontent.com/assets/126868/12030704/d101775c-ae28-11e5-9c59-5171b808091d.png)
 - [GIS Fundamentals](https://en.wikipedia.org/wiki/Geographic_information_system)
