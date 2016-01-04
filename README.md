@@ -22,7 +22,7 @@
 - Mapping<br>
  ![](http://static.tumblr.com/1tfc7p8/1mHmdrext/treasure-map.jpg)
  - [Coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system): [latitude](https://en.wikipedia.org/wiki/Latitude) and [longitude](https://en.wikipedia.org/wiki/Longitude)
- - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing), [GPS]()
+ - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing), [GPS](http://fas.org/man/dod-101/navy/docs/es310/GPS/GPS.htm)
  - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:250,000 small scale (world map), 1:10,000 large scale (street map)
  - [Projection](https://en.wikipedia.org/wiki/Map_projection): cylindrical, conic, azimuthal
 - Types of maps
