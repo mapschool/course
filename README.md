@@ -15,12 +15,13 @@
 - [Psychogeography](https://en.wikipedia.org/wiki/Psychogeography)
  - **Exploration 1** Create a [dérive](http://www.bopsecrets.org/SI/2.derive.htm)
 - [Geography](https://en.wikipedia.org/wiki/Geography)
- - [Geoid](https://en.wikipedia.org/wiki/Geoid)
- - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)
+ - [History of Cartography](https://en.wikipedia.org/wiki/History_of_cartography)<br>
+ ![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Mercator_1569.png)
  - [Great Trigonometric Survey of India](https://books.google.co.in/books?id=gd8gAQAAMAAJ&printsec=frontcover#v=onepage&q&f=false) and the [Bangalore connection](http://issuu.com/udayakumarp.l/docs/the_story_of_the_bangalore_baseline)<br>
  <img width="636" alt="screenshot 2016-01-02 01 52 41" src="https://cloud.githubusercontent.com/assets/126868/12072056/9e8525a8-b0f3-11e5-8b73-d4b054579d35.png">
 - Mapping<br>
  ![](http://static.tumblr.com/1tfc7p8/1mHmdrext/treasure-map.jpg)
+ - [Geoid](https://en.wikipedia.org/wiki/Geoid)
  - [Coordinates](https://en.wikipedia.org/wiki/Geographic_coordinate_system): [latitude](https://en.wikipedia.org/wiki/Latitude) and [longitude](https://en.wikipedia.org/wiki/Longitude)
  - Positioning: [trigonometry](https://en.wikipedia.org/wiki/Surveying), [remote sensing](https://en.wikipedia.org/wiki/Remote_sensing), [GPS](http://fas.org/man/dod-101/navy/docs/es310/GPS/GPS.htm)
  - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:250,000 small scale (world map), 1:10,000 large scale (street map)
