@@ -98,12 +98,18 @@
  
 ## Day 4: Publishing a web map
 - [HTML](https://www.codecademy.com/courses/html-one-o-one/0/1?curriculum_id=4f873b9ac02c44000300000d), [CSS and JS](https://www.codecademy.com/courses/html-javascript-css/0/1)
+ - Display your map using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/example/custom-style-id/)
+ - Host your map using [GitHub Pages](https://pages.github.com)
+ - Style your page using [Mapbox base.css](https://www.mapbox.com/base/)
+ - Explore the [Mapbox GL JS API](https://www.mapbox.com/mapbox-gl-js/api/) using the browser console
+- Interactive coding
+ - [API](https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&titles=Application%20programming%20interface) 
  - [Jquery](http://jsfiddle.net/webdevem/Q8KVC/)
  - [Callbacks](http://jsfiddle.net/javabeat/y9tGy/)
  - [AJAX]()
  - [JSON](http://www.jsoneditoronline.org)
- - [API](https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&titles=Application%20programming%20interface)
- - [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com)
+ 
+ 
 - A simple map
  - Creating a map view
  - Adding map layers
