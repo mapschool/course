@@ -98,7 +98,7 @@
  
 ## Day 4: Publishing a web map
 - [HTML](https://www.codecademy.com/courses/html-one-o-one/0/1?curriculum_id=4f873b9ac02c44000300000d), [CSS and JS](https://www.codecademy.com/courses/html-javascript-css/0/1)
- - Display your map using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/example/custom-style-id/)
+ - Display your map using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/example/custom-style-id/) and test locally using the [Python SimpleHTTPServer](http://www.pythonforbeginners.com/modules-in-python/how-to-use-simplehttpserver/)
  - Host your map using [GitHub Pages](https://pages.github.com)
  - Style your page using [Mapbox base.css](https://www.mapbox.com/base/)
  - Add the [Mapbox geocoder](https://www.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/) and [url hash](https://www.mapbox.com/mapbox-gl-js/api/#Map)
