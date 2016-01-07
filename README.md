@@ -101,7 +101,7 @@
  - Display your map using [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/example/custom-style-id/)
  - Host your map using [GitHub Pages](https://pages.github.com)
  - Style your page using [Mapbox base.css](https://www.mapbox.com/base/)
- - Add the [Mapbox geocoder](https://www.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/)
+ - Add the [Mapbox geocoder](https://www.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder/) and [url hash](https://www.mapbox.com/mapbox-gl-js/api/#Map)
  - Explore the [Mapbox GL JS API](https://www.mapbox.com/mapbox-gl-js/api/) using the browser console
 - Interactive coding
  - [API](https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvsection=0&titles=Application%20programming%20interface) 
