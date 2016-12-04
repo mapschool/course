@@ -27,6 +27,7 @@
  - [Scale](https://en.wikipedia.org/wiki/Scale_(map)): 1:250,000 small scale (world map), 1:10,000 large scale (street map)
  - [Projection](https://en.wikipedia.org/wiki/Map_projection): cylindrical, conic, azimuthal<br>
  ![](http://visual.merriam-webster.com/images/earth/geography/cartography/map-projections.jpg)
+ - **Video** [There is no correct projection](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 - Types of maps
  - [Pictoral](https://en.wikipedia.org/wiki/Pictorial_maps)
  - [Thematic](https://en.wikipedia.org/wiki/Thematic_map)
